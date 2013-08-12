@@ -1,4 +1,4 @@
-tully-light
+Tully Dark & Light - Sublime Color Schemes
 ===========
 
-A light asciidoc-friendly theme for Sublime Text and TextMate
+Dark and light writer-friendly themes for Sublime Text and TextMate.
